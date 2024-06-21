@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "213a",
+      "name": "Sergey",
+      "surname": "Amiraghyan",
+      "sallary": 850000
+    },
+    {
+      "id": "a039",
+      "name": "Sergey",
+      "surname": "Amiraghyan",
+      "sallary": "400000"
+    }
+  ]
+}
